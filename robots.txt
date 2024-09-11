@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://main--imanscoutprogram.netlify.app/sitemap.xml
